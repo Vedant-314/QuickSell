@@ -1,0 +1,54 @@
+.card-container{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    background-color: white;
+    padding: 10px;
+    width: 90%;
+    margin: 5px;
+    font-size: 13px;
+}
+
+.card-title{
+    color: rgb(149 149 151);
+    background-color: white;
+    margin-bottom: 5px;
+}
+
+.card-content{
+    background-color: white;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.tags{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.priority img{
+    border: 1px solid rgb(244 245 249);
+    border-radius: 4px;
+    background-color: white;
+    padding: 3px;
+}
+
+.priority{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature span{
+    background-color: white;
+    border: 1px solid rgb(244 245 249);
+    border-radius: 4px;
+    padding: 4px;
+}
+
+
+
+
+
